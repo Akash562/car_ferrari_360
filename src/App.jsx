@@ -14,7 +14,7 @@ export default function App() {
     <main className="app">
       <header className="app-header">
         <div>
-          <h1>Car Config</h1>
+          <h1>360 Car Viewer</h1>
         </div>
         <span className="live-status">3D EXPERIENCE</span>
       </header>
